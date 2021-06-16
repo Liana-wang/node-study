@@ -1,0 +1,12 @@
+{
+  "name": "pre",
+  "version": "1.0.0",
+  "description": "1. bash方式 ```js node helloworld/index.js 或 node helloworld ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
